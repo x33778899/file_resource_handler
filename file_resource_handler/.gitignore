@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+audio_data.csv
+main.spec
+image_data.csv
+compressed_image_file/
+build/
+dist/
